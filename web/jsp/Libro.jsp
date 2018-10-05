@@ -44,9 +44,7 @@
             </div>
             <button type="submit" class="btn btn-primary">Guardar Libro</button>
         </form>
-        <div class="container">
-            
-        </div>
+        
     </div>
 </body>
 
