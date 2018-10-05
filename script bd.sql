@@ -7,5 +7,5 @@ CREATE TABLE `librosh`.`libro` (
   `anioPublicacion` VARCHAR(4) NULL,
   `editorial` VARCHAR(15) NULL,
   `sinopsis` LONGTEXT NULL,
-  `tematica` VARCHAR(200) NULL,
+  `tematica` VARCHAR(500) NULL,
   PRIMARY KEY (`idlibro`));
